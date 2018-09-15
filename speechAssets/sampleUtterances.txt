@@ -1,0 +1,10 @@
+TurtleIntent {Turtle}
+TurtleIntent get {Turtle}
+TurtleIntent about {Turtle}
+AMAZON.HelpIntent Tell me those ninja turtle names again
+AMAZON.HelpIntent Tell me those turtle names again
+AMAZON.HelpIntent Tell me the ninja turtle names
+AMAZON.HelpIntent Tell me the turtle names
+AMAZON.HelpIntent What are the ninja turtle names again
+AMAZON.HelpIntent What are the turtle names again
+AMAZON.HelpIntent What are the turtle names
